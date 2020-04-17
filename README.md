@@ -1,10 +1,12 @@
-<<<<<<< HEAD
+#Scroll to the end to see how it looks ;p
 # portfolio
 
 A new Flutter application.
 #Images from
 "https://www.vecteezy.com/free-vector/girl-silhouette" Girl Silhouette Vectors by Vecteezy
 ## Getting Started
+
+![howIlook](https://github.com/sumibhatta/my_card)
 
 This project is a starting point for a Flutter application.
 
