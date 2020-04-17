@@ -6,7 +6,7 @@ A new Flutter application.
 "https://www.vecteezy.com/free-vector/girl-silhouette" Girl Silhouette Vectors by Vecteezy
 ## Getting Started
 
-![howIlook](https://github.com/sumibhatta/my_card)
+![howIlook](https://github.com/sumibhatta/my_card/blob/master/how_it_look.png)
 
 This project is a starting point for a Flutter application.
 
